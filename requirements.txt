@@ -1,0 +1,6 @@
+textract~=1.6.4
+six~=1.12.0
+chardet~=3.0.4
+pandas~=2.0.2
+docx~=0.2.4
+docxtpl~=0.15.1
